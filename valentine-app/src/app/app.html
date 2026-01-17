@@ -1,0 +1,26 @@
+<div class="container">
+  <h1>Will you be my Valentine you know, be your boyfriend?</h1>
+
+  <div class="buttons">
+    <button
+      class="yes-button"
+      [style.fontSize.px]="yesSize"
+      (click)="handleYesClick()"
+    >
+      Yes
+    </button>
+
+    <button
+      class="no-button"
+      (click)="handleNoClick()"
+    >
+      {{ noMessage }}
+    </button>
+  </div>
+
+  <img
+    class="cat"
+    src="assets/cat.png"
+    alt="cat"
+  />
+</div>
