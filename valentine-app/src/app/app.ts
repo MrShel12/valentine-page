@@ -30,6 +30,6 @@ export class AppComponent {
   }
 
   handleYesClick() {
-    alert('I LOVE YOU BABY MUAK MUAK MUAK💖');
+    alert('I LOVE YOU BABY MUAK MUAK💖 https://www.canva.com/design/DAG-1WCM7Dc/Ub0yoFu3WwmOR5hzeU0U7Q/edit?utm_content=DAG-1WCM7Dc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton');
   }
 }
