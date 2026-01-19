@@ -14,7 +14,7 @@ export class AppComponent {
     'No',
     'amor por que?',
     'ya no me amas?',
-    'PORFAVOOR, PROMETO CUIDARTE 🥺',
+    'Di q si, yo se q quieres 🥺',
     'voy a inseminarte si vuelves a picarle que no 💔',
     'sobre aviso no hay engaño amor'
   ];
@@ -30,6 +30,6 @@ export class AppComponent {
   }
 
   handleYesClick() {
-    alert('I LOVE YOU BABY MUAK MUAKK💖');
+    alert('I LOVE YOU BABY MUAKK MUAKK💖');
   }
 }
